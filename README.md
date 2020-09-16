@@ -1,0 +1,2 @@
+# cocktails
+This is a react-js application dedicated to suggesting you some refreshing cocktails for the night. Sign in with your Gmail account to view and select from our cocktail selection to add to your favorites list. The app has a server (going to run on localhost:3001) that you would need to setup before using the website. You can find that in one of my other repositories named "cocktails-server".
