@@ -1,0 +1,44 @@
+.cocktailsContainer {
+    display: flex;
+}
+
+.cocktailImage {
+    height: 75vh;
+    width: 75vh;
+}
+
+.cocktailDescriptionContainer {
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    margin-top: 2%;
+    margin-left: 2%;
+    height: 65vh;
+}
+
+.cocktailTitle {
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.descriptionTitle {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration-line: underline;
+    margin-top: 5%;
+}
+
+.descriptionContent {
+    font-size: 14px;
+    margin-top: 2%;
+}
+
+.cocktailButtonContainer {
+    flex: 1;
+    justify-self: flex-end;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
